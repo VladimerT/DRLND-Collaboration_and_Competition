@@ -18,8 +18,6 @@ In this environment, two agents control rackets to bounce a ball over a net. If 
 
 The observation space consists of 8 variables corresponding to the position and velocity of the ball and racket. Each agent receives its own, local observation.  Two continuous actions are available, corresponding to movement toward (or away from) the net, and jumping. 
 
-###Solving the Environment
-
 ### Getting Started
 
 
